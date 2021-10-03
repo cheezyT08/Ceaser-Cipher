@@ -114,10 +114,7 @@ public class CeaserCifer {
         ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',
         ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '};
         
-        char[] alphabet = {'a','b','c','d','e','f','g',
-               'h','i','j','k','l','m','n','o','p','q',
-               'r','s','t','u','v','w','x','y','z'};
-        
+         
         
         //////////INPUT_CODE///////////
         System.out.print("Please enter encoded message: ");
