@@ -1,2 +1,3 @@
-Ceaser cipher deccoder in progres.
-wrote this for fun, hope you enjoy:]
+## Shift Cipher Decoder In Progress
+
+### wrote this for fun, hope you enjoy
