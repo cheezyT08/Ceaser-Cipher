@@ -1,3 +1,3 @@
 ## Shift Cipher Decoder In Progress
 
-### wrote this for fun, hope you enjoy
+### Wrote This For Fun, Enjoy!
